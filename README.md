@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3877c9size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Déric+Augusto;I'm+23+years+old;I'm+from+Brazil;I'm+currently+studing+Digital+Systems+at+ENSEM;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 > - Languages I love using:
 > 
