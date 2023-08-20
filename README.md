@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3877c9&height=120&section=header"/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Déric+Augusto;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3877c9size=35&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+My+name+is+Déric+Augusto;I'm+a+23+years+old+student+from+Brazil;I'm+currently+studing+data+science+and+machine+learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
