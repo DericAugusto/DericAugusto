@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3877c9size=35&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+My+name+is+Déric+Augusto;I'm+a+23+years+old+student+from+Brazil;I'm+currently+studing+data+science+and+machine+learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/DericAugusto/DericAugusto/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-R2020a-BLUE.svg)
 > 
 > - Frameworks and tools I'm familiar with:
 > 
