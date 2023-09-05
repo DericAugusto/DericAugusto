@@ -11,7 +11,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-R2020a-BLUE.svg)
+![VHDL](https://img.shields.io/badge/VHDL-%23CC0000.svg?style=for-the-badge&logo=vhdl&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+
 > 
 > - Frameworks and tools I'm familiar with:
 > 
