@@ -30,6 +30,8 @@
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![SciKit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-212E4A.svg?style=for-the-badge&logo=ros&logoColor=white)
+
 > 
 > - IDEs I use:
 > 
