@@ -20,7 +20,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-FEBD1A?style=for-the-badge&logo=knime&logoColor=black)  
+![KNIME](https://img.shields.io/badge/KNIME-FEBD1A?style=for-the-badge&logo=knime&logoColor=black)
 
 > - 📈 Visualization & Web Apps  
 >  
@@ -46,6 +46,7 @@
 > ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 > - 📡 Monitoring & Observability  
 >  
