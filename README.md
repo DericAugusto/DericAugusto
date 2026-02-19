@@ -68,7 +68,7 @@
 >  
 > ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)  
 
-> - ⚙️ LLMOps  
+> - 🚀 LLMOps  
 >  
 > ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 > ![Codex](https://img.shields.io/badge/Codex-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000)
